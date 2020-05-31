@@ -1,3 +1,14 @@
+cons fs = require("fs");
+
+//set the answers to a varialbe called data
+ function generateMarkdown(answers) {
+   let data = 
+   ![badge](${answers.badge})
+   # ${answers.title}
+ }
+
+
+
 /*
 The README will be populated with the following:
 

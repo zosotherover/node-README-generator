@@ -88,12 +88,20 @@ const questions = [
   },
 ];
 
-function writeToFile(fileName, data) {
+//function writeToFile(fileName, data) {
   // where do I want the file to be placed? desktop? local directory? do I need to check?
   //create a file with the name fileName
   //write to file fielName the data
 }
 
-function init() {}
-// initialize stuff that I need here
+//initialize prompt
+function init() {
+  inquirer.prompt(questions).then((answers) => {
+    console.log(answers);
+
+    // after getting the answers call the generateMarkdown function
+    generateMarkdown(answers);
+  });
+}
+
 init();
