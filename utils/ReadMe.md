@@ -1,38 +1,45 @@
-![badge](This is a test project)
 
-# Test Project
+   ![badge](A test of this project)
+   # Test Project
+ 
+  #Table of Contents: 
+  *[Description](#description)
+  *[Installation Instructions](#installation-instructions)
+  *[Usage Instructions](#usage-instructions)
+  *[License](#license)
+  *[Contributors](#contributors)
+  *[Tests](#tests)
+  *[Contact](#contact)
 
-#Table of Contents:
-_[Description](#description)
-_[Installation Instructions](#installation-instructions)
-_[Usage Instructions](#usage-instructions)
-_[License](#license)
-_[Contributors](#contributors)
-_[Tests](#tests) \*[Contact](#contact)
+  #Description
 
-#Description
+  undefined
+  # Installation Instructions:
 
-undefined
 
-# Installation Instructions:
+  just install it
+  #Usage Instructions: 
 
-just install it already!
-#Usage Instructions:
 
-just use it dumb dumb
 
-# License:
+  just use it dumb dumb
+  # License:
 
-nah
 
-# Contributors:
+  none
+  # Contributors: 
 
-Just me
 
-# Tests:
+  Bryan Pero
+  # Tests: 
 
-zipity doo-dah
-#Contact:
-![anImage](none)
 
-## Email: <bryanpero@gmail.com>
+  zipity doo dah
+  #Contact: 
+  ![anImage](none)
+
+  ## Email: <bryanpero@gmail.com>
+
+
+
+   
