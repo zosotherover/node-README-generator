@@ -31,6 +31,10 @@ VS Code
 
 The user must run npm install and install the inquirer npm package. The application is invoked on the command line with: node index.js.
 
-## Screenshot of answers array:
+## Screenshot of the app in action:
 
 ![](images/readmeTest.PNG)
+
+## Links to video of the app in use:
+
+[Video](https://photos.app.goo.gl/mid37BThiRG9mjPV7)
