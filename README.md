@@ -33,4 +33,4 @@ The user must run npm install and install the inquirer npm package. The applicat
 
 ## Screenshot of answers array:
 
-![](images/readmeTest.png)
+![](images/readmeTest.PNG)
