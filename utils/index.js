@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 
 //require generateMarkdown.js:
 
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("/Users/zosot/bootcamp/homework/node-README-generator/node-README-generator/utils/generateMarkdown");
 
 //The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
 //This will be an array of questions:
@@ -28,13 +28,6 @@ const questions = [
     type: "input",
     name: "badge",
     message: "Please enter a description of your project:",
-  },
-
-  //What is your Table of Contents? [Array:string] or an object
-  {
-    type: "input",
-    name: "badge",
-    message: "Please enter a badge:",
   },
 
   //How to install: [string]
@@ -89,10 +82,9 @@ const questions = [
 ];
 
 //function writeToFile(fileName, data) {
-  // where do I want the file to be placed? desktop? local directory? do I need to check?
-  //create a file with the name fileName
-  //write to file fielName the data
-}
+// where do I want the file to be placed? desktop? local directory? do I need to check?
+//create a file with the name fileName
+//write to file fielName the data
 
 //initialize prompt
 function init() {
