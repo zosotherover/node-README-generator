@@ -6,9 +6,43 @@ cons fs = require("fs");
    ![badge](${answers.badge})
    # ${answers.title}
  
+  #Table of Contents: 
+  *[Description](#description)
+  *[Installation Instructions](#installation-instructions)
+  *[Usage Instructions](#usage-instructions)
+  *[License](#license)
+  *[Contributors](#contributors)
+  *[Tests](#tests)
+  *[Contact](#contact)
+
+  #Description
+
+  ${answers.descriptions}
+  # Installation Instructions:
+
+
+  ${answers.installation}
+  #Usage Instructions: 
 
 
 
+  ${answers.usage}
+  # License:
+
+
+  ${answers.license}
+  # Contributors: 
+
+
+  ${answers.contributors}
+  # Tests: 
+
+
+  ${answers.tests}
+  #Contact: 
+  ![anImage](${answers.profilePic})
+
+  ## Email: <${answers.email}>
 
 
 
