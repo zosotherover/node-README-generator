@@ -42,7 +42,7 @@ const questions = [
   {
     type: "input",
     name: "installation",
-    message: "Please enter installation instructionsn for your application:",
+    message: "Please enter installation instructions for your application:",
   },
 
   //What is your Usage? [string]
