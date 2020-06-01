@@ -35,6 +35,6 @@ The user must run npm install and install the inquirer npm package. The applicat
 
 ![](images/readmeTest.PNG)
 
-## Links to video of the app in use:
+## Video of the app in use:
 
 [Video](https://photos.app.goo.gl/mid37BThiRG9mjPV7)
