@@ -9,22 +9,35 @@ The user is then will prompted for their GitHub username and other information p
 The README will be populated with the following:
 
 At least one badge
+
 Project title
+
 Description
+
 Table of Contents
+
 Installation
+
 Usage
+
 License
+
 Contributing
+
 Tests
+
 Questions
+
 User GitHub profile picture
+
 User GitHub email
 
 ## Technologies Used:
 
 Node.js
+
 ES6+
+
 VS Code
 
 ## Installation:
