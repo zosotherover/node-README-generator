@@ -1,6 +1,6 @@
 # node-README-generator
 
-# Description:
+## Description:
 
 This is a command-line application that dynamically generates a README.md from a user's input. The application is invoked with the following command:
 node index.js
@@ -21,10 +21,16 @@ Questions
 User GitHub profile picture
 User GitHub email
 
-# Installation:
+## Technologies Used:
+
+Node.js
+ES6+
+VS Code
+
+## Installation:
 
 The user must run npm install and install the inquirer npm package. The application is invoked on the command line with: node index.js.
 
-## test
+## Screenshot of answers array:
 
-stuff typed here
+![](images/readmeTest.png)
