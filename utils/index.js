@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 
 //require generateMarkdown.js:
 
-const generateMarkdown = require("/Users/zosot/bootcamp/homework/node-README-generator/node-README-generator/utils/generateMarkdown");
+const generateMarkdown = require("./generateMarkdown");
 
 //The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
 //This will be an array of questions:
